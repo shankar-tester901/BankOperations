@@ -1,0 +1,7 @@
+here I have used several utility functions so each has its own file and each exports its data as to be 
+useful to the other.
+
+Unlike the previous cases, i have not used them all within module.exports
+The most important part is that we must ensure that the context.close() is always called.
+Else it will keep the session open at all times.
+

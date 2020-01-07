@@ -1,0 +1,11 @@
+{
+	"name": "add_money",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1003@zohocorp.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"request": "^2.88.0",
+		"zcatalyst-sdk-node": "0.0.13"
+	}
+}

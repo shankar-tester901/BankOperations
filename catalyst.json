@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "add_money",
+      "remove_money",
+      "check_balance",
+      "track_balance",
+      "test_ops"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

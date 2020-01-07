@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "remove_money",
+		"stack": "node10",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
